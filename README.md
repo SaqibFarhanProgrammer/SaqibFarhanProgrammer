@@ -1,41 +1,62 @@
-# 👋 Saqib Farhan
+# Saqib Farhan
 
-**Frontend Developer • React & Next.js**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-farhan-214590340/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaqibFarhanProgrammer)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saqibkhatai@gmail.com)
+**Mid-Level Full Stack Software Engineer**
 
 ---
 
-## 🧑‍💻 About Me
-Building interfaces that feel smooth and clean is what I enjoy the most.
-My focus is on modern frontend development with React, Next.js, and Tailwind CSS.
-I’m currently exploring TypeScript and better patterns for writing scalable UI.
+## About Me
 
----
+Mid-level software engineer with over 2 years of professional experience in developing end-to-end web applications. Specialized in building scalable, high-performance solutions using modern JavaScript technologies across frontend and backend.
 
-## 🛠️ Tech Stack
+I have delivered multiple projects and products with clean architecture, responsive design, and robust backend systems.
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,nodejs,mongodb,firebase,figma,ps,git,vscode)
+## Technical Skills
 
----
+### Frontend
+- Next.js
+- React.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Shadcn/ui
+- Redux Toolkit (RTK)
 
-## 📈 GitHub Analytics
+### Backend
+- Node.js
+- Express.js
+- JWT Authentication
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SaqibFarhanProgrammer&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=8B949E)
+### Databases
+- MongoDB
+- PostgreSQL
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaqibFarhanProgrammer&theme=tokyonight&hide_border=false&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1)
+### Tools
+- Git & GitHub
+- Postman
+- Jira
+- Figma
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaqibFarhanProgrammer&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=false&hide_border=false)
+## Experience
 
+- 2+ years of hands-on full-stack development
+- Built and maintained production-ready web applications
+- Focused on performance, scalability, and clean code practices
 
-## 💼 Current Focus
+## Featured Projects
 
-const saqib = {
-  role: "Frontend Developer",
-  workingOn: "Real-time Chat Application",
-  learning: ["TypeScript", "Next.js", "Advanced React"],
-  stack: ["React", "Firebase", "Tailwind CSS"],
-  goal: "Build scalable and interactive web apps"
-};
+Pin your top 6 best repositories directly on your GitHub profile for best visibility. Here is the format you can use in this section (replace with your actual projects):
+
+- **[Project Name](https://github.com/SaqibFarhanProgrammer/your-repo)**  
+  Brief description of the project, key features, and technologies used (Next.js + Node.js + MongoDB, for example).
+
+- **[Project Name](https://github.com/SaqibFarhanProgrammer/your-repo)**  
+  Brief description...
+
+*(Currently pinned projects like AI-Chat-Application, Weather-Dashboard etc. ko agar basic lag rahe hain to unpin kar do aur apne strong full-stack projects pin kar lo.)*
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/saqib-farhan-214590340)
+- [GitHub](https://github.com/SaqibFarhanProgrammer)
+
+Open to new opportunities and collaborations in full-stack software development.
