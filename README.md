@@ -1,30 +1,36 @@
 # Saqib Farhan
 
-**Mid-Level Full Stack Software Engineer**
+**Full Stack Software Engineer | Open Source Contributor | Founder @ Syfus Web Agency | Freelancer**
 
 ---
 
 ## About Me
 
-Mid-level software engineer with over 2 years of professional experience in developing end-to-end web applications. Specialized in building scalable, high-performance solutions using modern JavaScript technologies across frontend and backend.
+Full Stack Software Engineer focused on building scalable, production-ready web applications using modern JavaScript technologies.
 
-I have delivered multiple projects and products with clean architecture, responsive design, and robust backend systems.
+I specialize in designing clean system architecture, high-performance frontend interfaces, and secure backend APIs.
 
-## Technical Skills
+I actively contribute to open source projects and also work as a freelance developer and founder of a web development agency.
+
+---
+
+## Skills
 
 ### Frontend
-- Next.js
 - React.js
+- Next.js
 - TypeScript
-- JavaScript
+- JavaScript (ES6+)
 - Tailwind CSS
-- Shadcn/ui
-- Redux Toolkit (RTK)
+- Shadcn/UI
+- Redux Toolkit
 
 ### Backend
 - Node.js
 - Express.js
+- REST APIs
 - JWT Authentication
+- System Design Basics
 
 ### Databases
 - MongoDB
@@ -36,27 +42,77 @@ I have delivered multiple projects and products with clean architecture, respons
 - Jira
 - Figma
 
+---
+
 ## Experience
 
-- 2+ years of hands-on full-stack development
-- Built and maintained production-ready web applications
-- Focused on performance, scalability, and clean code practices
+- 2+ years full-stack development experience  
+- Built production-level scalable applications  
+- Worked on real-world SaaS and freelance projects  
+- Focus on performance, scalability, and clean architecture  
+
+---
+
+## Open Source
+
+Actively contributing to open-source projects:
+- UI systems
+- Developer tools
+- Productivity applications
+- JavaScript ecosystem improvements
+
+Goal: Build tools that help developers and real users.
+
+---
+
+## Founder
+
+**Syfus Web Agency**
+
+A web development agency focused on:
+- Custom Web Applications
+- SaaS Development
+- UI/UX Engineering
+- Scalable Backend Systems
+
+---
+
+## Freelancing
+
+Available for:
+- Full Stack Web Applications
+- SaaS Platforms
+- Frontend Engineering
+- Backend API Development
+- UI Implementation
+
+---
 
 ## Featured Projects
 
-Pin your top 6 best repositories directly on your GitHub profile for best visibility. Here is the format you can use in this section (replace with your actual projects):
+- AI Chat Application — Next.js + Node.js + MongoDB  
+- Task Management System — Drag & Drop + Role Based Access  
+- Weather Dashboard — API Integration + Clean UI  
 
-- **[Project Name](https://github.com/SaqibFarhanProgrammer/your-repo)**  
-  Brief description of the project, key features, and technologies used (Next.js + Node.js + MongoDB, for example).
+---
 
-- **[Project Name](https://github.com/SaqibFarhanProgrammer/your-repo)**  
-  Brief description...
+## GitHub Stats
 
-*(Currently pinned projects like AI-Chat-Application, Weather-Dashboard etc. ko agar basic lag rahe hain to unpin kar do aur apne strong full-stack projects pin kar lo.)*
+(Add later if needed)
+- Streak Stats
+- Contribution Graph
+- Language Stats
+
+---
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/saqib-farhan-214590340)
-- [GitHub](https://github.com/SaqibFarhanProgrammer)
+- LinkedIn: https://www.linkedin.com/in/saqib-farhan-214590340  
+- GitHub: https://github.com/SaqibFarhanProgrammer  
+- Freelance: Open for opportunities  
 
-Open to new opportunities and collaborations in full-stack software development.
+---
+
+## Closing
+
+Building real systems, not just projects.
