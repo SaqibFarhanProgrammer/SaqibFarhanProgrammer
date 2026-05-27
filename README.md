@@ -98,7 +98,6 @@ Available for:
 
 ## GitHub Stats
 
-(Add later if needed)
 - Streak Stats
 - Contribution Graph
 - Language Stats
@@ -111,8 +110,5 @@ Available for:
 - GitHub: https://github.com/SaqibFarhanProgrammer  
 - Freelance: Open for opportunities  
 
----
-
-## Closing
 
 Building real systems, not just projects.
