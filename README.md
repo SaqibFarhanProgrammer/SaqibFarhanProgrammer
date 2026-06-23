@@ -1,4 +1,4 @@
-g# Saqib Farhan
+# Saqib Farhan
 
 **Full Stack Software Engineer | Open Source Contributor | Founder @ Syfus Web Agency | Freelancer**
 
