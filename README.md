@@ -1,10 +1,6 @@
-# Saqib Farhan
+g# Saqib Farhan
 
 **Full Stack Software Engineer | Open Source Contributor | Founder @ Syfus Web Agency | Freelancer**
-
----
-
-## About Me
 
 Full Stack Software Engineer focused on building scalable, production-ready web applications using modern JavaScript technologies.
 
