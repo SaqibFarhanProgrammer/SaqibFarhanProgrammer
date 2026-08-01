@@ -8,7 +8,6 @@ I specialize in designing clean system architecture, high-performance frontend i
 
 I actively contribute to open source projects and also work as a freelance developer and founder of a web development agency.
 
----
 
 ## Skills
 
@@ -38,7 +37,6 @@ I actively contribute to open source projects and also work as a freelance devel
 - Jira
 - Figma
 
----
 
 ## Experience
 
@@ -47,7 +45,6 @@ I actively contribute to open source projects and also work as a freelance devel
 - Worked on real-world SaaS and freelance projects  
 - Focus on performance, scalability, and clean architecture  
 
----
 
 ## Open Source
 
@@ -59,7 +56,6 @@ Actively contributing to open-source projects:
 
 Goal: Build tools that help developers and real users.
 
----
 
 ## Founder
 
@@ -71,8 +67,6 @@ A web development agency focused on:
 - UI/UX Engineering
 - Scalable Backend Systems
 
----
-
 ## Freelancing
 
 Available for:
@@ -82,7 +76,6 @@ Available for:
 - Backend API Development
 - UI Implementation
 
----
 
 ## Featured Projects
 
@@ -90,7 +83,6 @@ Available for:
 - Task Management System — Drag & Drop + Role Based Access  
 - Weather Dashboard — API Integration + Clean UI  
 
----
 
 ## GitHub Stats
 
@@ -98,7 +90,6 @@ Available for:
 - Contribution Graph
 - Language Stats
 
----
 
 ## Let's Connect
 
