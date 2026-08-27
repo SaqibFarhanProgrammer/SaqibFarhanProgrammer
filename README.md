@@ -4,7 +4,9 @@
 
 **Software Developer**
 
-I build web applications and AI features using JavaScript and Python.
+Full-stack development, cloud, backend systems and AI applications.
+
+<br />
 
 [LinkedIn](https://www.linkedin.com/in/saqib-farhan-214590340) · [GitHub](https://github.com/SaqibFarhanProgrammer)
 
@@ -14,25 +16,42 @@ I build web applications and AI features using JavaScript and Python.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,mongodb,redis,docker,aws,azure,git&perline=12" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,mongodb,redis,docker,aws,azure,cloudflare,kafka,git&perline=14" />
 
 </div>
 
-## What I Work With
+<br />
 
-**Web:** Next.js, React, TypeScript, JavaScript, Node.js
-**Backend:** MongoDB, Redis, REST APIs, Authentication, Queues
-**Cloud & DevOps:** Docker, CI/CD, AWS, Azure, DigitalOcean
-**AI:** Python, LangChain, RAG, Generative AI
+### Frontend
 
-## Projects
+Next.js · React · TypeScript · JavaScript · Tailwind CSS · shadcn/ui
 
-### BuildIt
+### Backend
 
-A developer platform I have been building with tools for coding, learning and productivity.
+Node.js · Express · REST APIs · Authentication · MongoDB · Redis
 
-It includes AI features such as a RAG chat application and a coding assistant for code explanation and understanding.
+### Cloud & DevOps
 
----
+Docker · CI/CD · AWS · Azure · DigitalOcean · Cloudflare
+
+### Systems
+
+Caching · Queues · Kafka · Background Jobs · Basic System Design
+
+### AI
+
+Python · LangChain · RAG · Generative AI
+
+## BuildIt
+
+A developer platform with coding, learning and AI features.
+
+Includes a RAG-based chat application and a coding assistant for code explanation and understanding.
+
+<br />
+
+<div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/saqib-farhan-214590340) · [GitHub](https://github.com/SaqibFarhanProgrammer)
+
+</div>
