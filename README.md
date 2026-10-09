@@ -8,7 +8,7 @@ Full-stack development, cloud, backend systems and AI applications.
 
 <br />
 
-[LinkedIn](https://www.linkedin.com/in/saqib-farhan-214590340) · [GitHub](https://github.com/SaqibFarhanProgrammer)
+[LinkedIn](https://www.linkedin.com/in/saqib-farhan-381304288/) · [GitHub](https://github.com/SaqibFarhanProgrammer)
 
 </div>
 
@@ -23,23 +23,18 @@ Full-stack development, cloud, backend systems and AI applications.
 <br />
 
 ### Frontend
-
 Next.js · React · TypeScript · JavaScript · Tailwind CSS · shadcn/ui
 
 ### Backend
-
 Node.js · Express · REST APIs · Authentication · MongoDB · Redis
 
 ### Cloud & DevOps
-
 Docker · CI/CD · AWS · Azure · DigitalOcean · Cloudflare
 
 ### Systems
-
 Caching · Queues · Kafka · Background Jobs · Basic System Design
 
 ### AI
-
 Python · LangChain · RAG · Generative AI
 
 ## BuildIt
@@ -52,6 +47,6 @@ Includes a RAG-based chat application and a coding assistant for code explanatio
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/saqib-farhan-214590340) · [GitHub](https://github.com/SaqibFarhanProgrammer)
+[LinkedIn](https://www.linkedin.com/in/saqib-farhan-381304288/) · [GitHub](https://github.com/SaqibFarhanProgrammer)
 
 </div>
