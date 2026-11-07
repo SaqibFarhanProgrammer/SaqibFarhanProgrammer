@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # Saqib Farhan
 
 **Software Developer**
 
-Full-stack development, cloud, backend systems and AI applications.
+Building web applications, backend systems, and SaaS products.
 
 <br />
 
@@ -14,7 +14,9 @@ Full-stack development, cloud, backend systems and AI applications.
 
 ## About
 
-Full-stack developer based in Karachi, Pakistan, focused on Next.js, TypeScript and system design. Runs Syfus, a solo web development agency, and builds side projects to deepen production-grade engineering skills.
+I'm Saqib Farhan, a Software Developer based in Karachi, Pakistan. I work with Next.js, TypeScript, Node.js, MongoDB, and Redis to build web applications and backend systems.
+
+I'm interested in software architecture, system design, cloud infrastructure, and building practical products. I also run Syfus, a solo web development agency, and work on independent SaaS projects.
 
 ## Skills
 
@@ -30,27 +32,17 @@ Full-stack developer based in Karachi, Pakistan, focused on Next.js, TypeScript 
 Next.js (App Router) · React · TypeScript · JavaScript · Tailwind CSS · shadcn/ui · Redux Toolkit · Framer Motion · GSAP
 
 ### Backend
-Node.js · Express · REST APIs · Authentication · MongoDB/Mongoose · Redis (ioredis) · BullMQ
+Node.js · Express · REST APIs · Authentication & Authorization · MongoDB/Mongoose · Redis · BullMQ
 
 ### Cloud & DevOps
 Docker · CI/CD · AWS · Azure · DigitalOcean · Cloudflare · Vercel
 
-### Systems
-Caching · Queues · Kafka · Background Jobs · System Design (capacity planning, estimation, caching strategy)
+### Systems & Architecture
+Caching · Background Jobs · Message Queues · Kafka · System Design · Capacity Planning · Database Optimization
 
-### AI
-Python · LangChain · RAG · Vector databases (Pinecone/Qdrant) · Generative AI
+### AI & Development
+Python · LangChain · RAG · Vector Databases (Pinecone/Qdrant) · Generative AI
 
-## Projects
-
-### BuildIt — Developer Platform
-A developer platform with coding, learning and AI features. Includes a RAG-based chat application and a coding assistant for code explanation and understanding.
-
-### FormsAwesome
-A drag-and-drop form builder with a dashboard, form builder, public form rendering, and submissions/analytics tracking. Built on Next.js, MongoDB, Redis and Tailwind, with a staged production roadmap covering auth hardening, form CRUD, and analytics.
-
-### Saafin
-Company website and landing page for a mineral water brand.
 
 <br />
 
